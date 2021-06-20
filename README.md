@@ -1,2 +1,2 @@
 # Python Utilities
-This repository contains utility functions in python
+This repository contains utility functions in python.
